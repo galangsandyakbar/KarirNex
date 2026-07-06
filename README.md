@@ -6,6 +6,7 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/galangsandyakbar) · 📧 [galangsandyakbar@gmail.com](mailto:galangsandyakbar@gmail.com)
 
+
 ---
 
 ## 1. Business Understanding
@@ -93,10 +94,10 @@ Proses cleaning dilakukan dengan dua pendekatan untuk menunjukkan fleksibilitas 
 ### 📌 Performa pelanggan (Excel — Pivot & Chart)
 
 **Top 10 Pelanggan Berdasarkan Jumlah Order**
-![Top Customer by Total Order](./Assets/Top_Customer_by_Total_Order.png)
+![Top Customer by Total Order](https://github.com/galangsandyakbar/KarirNex/blob/b6cd4b1e9882b01ba85f99e5e8ceb5b8f018314d/Assets/Top%20Customer%20by%20Total%20Order.png)
 
 **Top 10 Pelanggan Berdasarkan Total Belanja**
-![Top Customer by Total Spend](./Assets/Top_Customer_by_Total_Spend.png)
+![Top Customer by Total Spend](https://github.com/galangsandyakbar/KarirNex/blob/b6cd4b1e9882b01ba85f99e5e8ceb5b8f018314d/Assets/Top%20Customer%20by%20Total%20Spend.png)
 
 | Rank | Pelanggan (Order) | Jumlah Order | Pelanggan (Belanja) | Total Belanja |
 |---|---|---|---|---|
@@ -110,7 +111,7 @@ Proses cleaning dilakukan dengan dua pendekatan untuk menunjukkan fleksibilitas 
 
 ### 📌 Performa kategori per channel (Excel — Pivot & Chart)
 
-![Top Category per Channel](./Assets/Top_Category.png)
+![Top Category per Channel](https://github.com/galangsandyakbar/KarirNex/blob/b6cd4b1e9882b01ba85f99e5e8ceb5b8f018314d/Assets/Top%20Category.png)
 
 | Channel | Makanan | Pembersih | Perawatan |
 |---|---|---|---|
