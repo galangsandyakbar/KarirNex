@@ -138,7 +138,7 @@ Proses cleaning dilakukan dengan dua pendekatan untuk menunjukkan fleksibilitas 
 
 ## 5. Dashboard (Power BI)
 
-File: [`Galang_Sandy_A_Power_BI_Sales_Dashboard.pbix`](./Assets/Dashboard/Galang_Sandy_A_Power_BI_Sales_Dashboard.pbix)
+File: [`Galang_Sandy_A_Power_BI_Sales_Dashboard.pbix`]((https://github.com/galangsandyakbar/KarirNex/blob/171d6d134b1b036b781b435a768cdee8bd242e75/Assets/Dashboard/Galang%20Sandy%20A_Power%20BI_Sales%20Dashboard.pbix))
 
 **Layout:** `Card (KPI)` → `Matrix Table` → `3 visual inti` → `Slicer` (kategori, bulan, kota)
 
