@@ -80,8 +80,7 @@ Proses cleaning dilakukan dengan dua pendekatan untuk menunjukkan fleksibilitas 
 ## 4. Analysis & Key Findings
 
 *(Seluruh angka di bawah telah diverifikasi ulang langsung dari dataset bersih, bukan hanya dikutip dari hasil query/pivot.)*
-
-### 📌 Metrik fondasi (SQL)
+### 🔹 Python — lihat [`Python Data Analysis_Galang_Karirnex.ipynb`](https://github.com/galangsandyakbar/KarirNex/blob/21745f6ea2ce3be40d24af4afac490c9bc9da926/Assets/Python%20Data%20Analysis_Galang_Karirnex)
 
 | Metrik | Nilai |
 |---|---|
